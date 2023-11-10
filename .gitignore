@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/FullScaffoldingTrainingProject/appsettings.json
+/FullScaffoldingTrainingProject/appsettings.json
+/FullScaffoldingTrainingProject/appsettings.Development.json
